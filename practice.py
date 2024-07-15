@@ -6,3 +6,5 @@ for i in range(1,6):
 
 end=time.time()
 print(end-start)
+
+# output
