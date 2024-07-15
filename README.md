@@ -1,1 +1,1 @@
-# practices from The Self-taught Computer Scientist book.
+practices from The Self-taught Computer Scientist book.
